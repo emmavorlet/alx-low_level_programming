@@ -6,7 +6,7 @@
  * Return: Alway 0 (sucess)
  */
 
-int main(viod)
+int main(void)
 {
 	return (0);
 }
