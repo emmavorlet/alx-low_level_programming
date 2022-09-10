@@ -3,7 +3,7 @@
 /**
  * main - entry point
  * Description: prints single digit number separated by coma and space
- * Reture: return 0 success
+ * Return: return 0 success
  */
 
 int main(void)
